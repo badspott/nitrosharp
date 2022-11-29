@@ -1,6 +1,6 @@
 # NitroSharp (codename Project Hoppy)
 
-**NitroSharp** is an open-source reimplementation of **N2System**, a visual novel engine used in a number of games made by Nitroplus. The primary goal of the project is to make [Chaos;Head Noah](https://vndb.org/v22505), a console-exclusive game, fully playable on PC (Windows, Linux) and possibly other platforms (listed below). Support for other N2System-based games may come later.
+**NitroSharp** is an open-source reimplementation of **N2System**, a visual novel engine used in a number of games made by Nitroplus. The primary goal of the project is to make [Chaos;Head Noah](https://vndb.org/v22505) fully playable on PC (Windows, Linux) and possibly other platforms (listed below). Support for other N2System-based games may come later.
 
 ## Status
 NitroSharp is close to being feature-complete. You should be able to reach at least some of the endings in Chaos;Head Noah without crashes, if you're lucky. **Please do not expect NitroSharp to be a viable drop-in replacement for N2System just yet.**
